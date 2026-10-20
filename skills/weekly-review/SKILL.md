@@ -23,7 +23,7 @@ Friday, one screen. What moved, what carries, what the brain hands you for next 
    - Efficiency: one move, sized (hours saved per week or items unblocked), with an owner suggestion. Pull from recurring asks in messaging, from meeting load, or from Fill-ins in the matrix.
    - Sourcing: one dated signal worth acting on, with the action; or "no signal this week" (that is acceptable).
 5. **Pod description.** If priorities changed, propose the new description text.
-6. Save to `logs/YYYY-MM-DD-review.md`; refresh `frames/PriorityMatrix/matrix.json` if present.
+6. Save to `logs/YYYY-MM-DD-review.md`; refresh `SecondBrainDashboard/data.json` if present (keep its shape: `direction`, `topFive[]`, `horizons` with `lenses`, `horizons`, `filled` as a 3×3 boolean grid and `nextToFill`, `touches[]` with `name`, `why`, `drafted`; `label` set to "sample data" when built on the sample files) and republish the dashboard.
 
 ## Output format
 

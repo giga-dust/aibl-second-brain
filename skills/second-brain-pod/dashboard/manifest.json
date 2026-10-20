@@ -1,0 +1,4 @@
+{
+  "version": 1,
+  "description": "Pod banner for a Second Brain Pod: direction, the matrix top five, the 3×3 horizon grid, this week's three outreach touches. Renders ./data.json written by the Friday review. No server functions."
+}

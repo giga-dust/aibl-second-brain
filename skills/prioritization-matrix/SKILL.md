@@ -35,7 +35,7 @@ Lens: Efficiency, Sourcing or Outreach (one). Horizon: 1Q, 2Q or 4Q, consistent 
 
 1. Score each unscored item; propose a rescore for items whose evidence changed (say what changed).
 2. Show the user the scores for anything new or changed before writing. Ask for one-word confirmation.
-3. Write `matrix.md` sorted by score within quadrant. Write `frames/PriorityMatrix/matrix.json` if the folder exists (fields: id, item, lens, horizon, impact, effort, confidence, urgency, score, quadrant, owner, nextStep).
+3. Write `matrix.md` sorted by score within quadrant. If the Pod has a `SecondBrainDashboard/` folder, update the `topFive` array of `SecondBrainDashboard/data.json` (`item`, `lens`, `horizon`, `score`, `movement`) and republish the dashboard with `dsbx frame publish /files/pod-<podId>/SecondBrainDashboard/manifest.json`.
 4. Report the top five and anything that moved quadrant.
 
 ## Output format

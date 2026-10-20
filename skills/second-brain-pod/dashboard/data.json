@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-10-17T16:00:00+02:00",
+  "owner": "Dara",
+  "label": "sample data",
+  "direction": "A 12-person ops team that runs on written updates, agents doing the first pass, and three partnerships that bring us customers we could not reach alone.",
+  "topFive": [
+    { "item": "Replace Tuesday all-hands with a written update", "lens": "Efficiency", "horizon": "1Q", "score": 16, "movement": "new" },
+    { "item": "Reconnect with Jonas at Helio", "lens": "Outreach", "horizon": "1Q", "score": 16 },
+    { "item": "Call Mara before vendor consolidation", "lens": "Outreach", "horizon": "1Q", "score": 15 },
+    { "item": "Send Léa the promised usage review deck", "lens": "Outreach", "horizon": "1Q", "score": 15 },
+    { "item": "Agent pre-fills the weekly ops report", "lens": "Efficiency", "horizon": "1Q", "score": 8 }
+  ],
+  "horizons": {
+    "lenses": ["Efficiency", "Sourcing", "Outreach"],
+    "horizons": ["1Q", "2Q", "4Q"],
+    "filled": [[true, true, false], [true, true, true], [true, false, false]],
+    "nextToFill": "Outreach · 2Q"
+  },
+  "touches": [
+    { "name": "Mara", "why": "vendor consolidation decision this month", "drafted": true },
+    { "name": "Jonas", "why": "new role at Helio", "drafted": true },
+    { "name": "Léa", "why": "promised usage review", "drafted": true }
+  ],
+  "note": "Sample data from the aibl-second-brain kit. The Friday review rewrites this file."
+}
