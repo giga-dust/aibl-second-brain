@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-10-17T16:00:00+02:00",
+  "owner": "Sample head of operations",
+  "direction": "A 12-person ops team that runs on written updates, agents doing the first pass, and three partnerships that bring us customers we could not reach alone.",
+  "items": [
+    { "id": 1, "item": "Replace Tuesday all-hands with a written update", "lens": "Efficiency", "horizon": "1Q", "impact": 4, "effort": 1, "confidence": 4, "urgency": 3, "score": 16.0, "quadrant": "Quick win", "owner": "Dara", "nextStep": "Six-week trial started 10-15" },
+    { "id": 2, "item": "Call Mara before vendor consolidation", "lens": "Outreach", "horizon": "1Q", "impact": 5, "effort": 1, "confidence": 3, "urgency": 5, "score": 15.0, "quadrant": "Quick win", "owner": "you", "nextStep": "Draft call opener" },
+    { "id": 3, "item": "Agent pre-fills the weekly ops report", "lens": "Efficiency", "horizon": "1Q", "impact": 4, "effort": 2, "confidence": 4, "urgency": 3, "score": 8.0, "quadrant": "Quick win", "owner": "Eli", "nextStep": "Scope Jira and Slack read access" },
+    { "id": 4, "item": "Send Léa the promised usage review deck", "lens": "Outreach", "horizon": "1Q", "impact": 3, "effort": 1, "confidence": 5, "urgency": 4, "score": 15.0, "quadrant": "Fill-in", "owner": "you", "nextStep": "Draft this week" },
+    { "id": 5, "item": "Lumen Advisory partnership (CFO roundtable)", "lens": "Sourcing", "horizon": "2Q", "impact": 4, "effort": 3, "confidence": 3, "urgency": 3, "score": 4.0, "quadrant": "Big bet", "owner": "you", "nextStep": "Fit score, warm intro via Priya" },
+    { "id": 6, "item": "Speak at OpsTech Summit", "lens": "Sourcing", "horizon": "1Q", "impact": 3, "effort": 3, "confidence": 3, "urgency": 5, "score": 3.0, "quadrant": "Time sink", "owner": "you", "nextStep": "Decide by 10-29 or park" },
+    { "id": 7, "item": "Reconnect with Jonas at Helio", "lens": "Outreach", "horizon": "1Q", "impact": 4, "effort": 1, "confidence": 4, "urgency": 4, "score": 16.0, "quadrant": "Quick win", "owner": "you", "nextStep": "Congratulate, ask about roadmap" },
+    { "id": 8, "item": "Map ticket-to-resolved with The Goal Pod", "lens": "Efficiency", "horizon": "2Q", "impact": 4, "effort": 3, "confidence": 3, "urgency": 2, "score": 4.0, "quadrant": "Big bet", "owner": "Dara", "nextStep": "Learning goal: where work waits" },
+    { "id": 9, "item": "Summarize the Brightline ops automation report", "lens": "Sourcing", "horizon": "1Q", "impact": 2, "effort": 1, "confidence": 4, "urgency": 2, "score": 8.0, "quadrant": "Fill-in", "owner": "agent", "nextStep": "Summarize to resources/" },
+    { "id": 10, "item": "Quarterly partner shortlist", "lens": "Sourcing", "horizon": "4Q", "impact": 5, "effort": 4, "confidence": 2, "urgency": 2, "score": 2.5, "quadrant": "Big bet", "owner": "you", "nextStep": "Define a good partner first" }
+  ],
+  "note": "Sample data from the aibl-second-brain kit. Replace with the output of the prioritization-matrix skill."
+}

@@ -1,0 +1,4 @@
+{
+  "version": 1,
+  "description": "Snapshot of a Second Brain prioritization matrix: items plotted on impact × effort in four quadrants, colored by horizon (1Q, 2Q, 4Q), with lens tags. Reads ./matrix.json; no server functions."
+}
